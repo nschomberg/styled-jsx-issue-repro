@@ -1,0 +1,10 @@
+{
+  "presets": ["es2015", "react", "stage-0"],
+  "plugins": [
+    "transform-async-to-generator",
+    "styled-jsx/babel",
+    "syntax-object-rest-spread",
+    "transform-class-properties"
+  ],
+  "compact": false
+}
